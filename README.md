@@ -17,6 +17,7 @@
 
 ## 💻 MY PROJECTS
 **📂:** LAB TASK 1 - [PYTHON FUNDAMENTALS](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds123.pdf) 
+**📂:** LAB TASK 2 - [Using Loops and Functions](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/charles2.pdf) 
 
 
 ## 📞 CONTACTS
