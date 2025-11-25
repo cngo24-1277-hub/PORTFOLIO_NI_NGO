@@ -2,6 +2,10 @@
  **Hello! I'm Charles Edrick P. Ngo   
 “I am discovering parts of myself I never knew I needed.”**
 
+# My Hobbies 
+**𖧋 BASKETBALL**  
+**𖧋 PLAYING ONLINE GAMES**
+
 # 🎓 ACADEMIC
 *● Senior Highschool: Angeles City National Trade School (CSS Strand)*   
 *● Junior Highschool: Angeles City National Trade School*  
@@ -10,6 +14,9 @@
 # 📌 PERSONAL SKILLS
 **● Time Management🕰️**  
 **● Positive Attitude**
+
+## 💻 MY PROJECTS
+
 
 ## 📞 CONTACTS
 
