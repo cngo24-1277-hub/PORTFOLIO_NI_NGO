@@ -16,6 +16,7 @@
 **● Positive Attitude**
 
 ## 💻 MY PROJECTS
+**📂:** LAB TASK 1 - [PYTHON FUNDAMENTALS](https://almealumanlan17.github.io/700P-PORTFOLIO/lab-task/midterm/lab1) 
 
 
 ## 📞 CONTACTS
