@@ -19,7 +19,7 @@
 **📂:** LAB TASK 1 - [PYTHON FUNDAMENTALS](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds123.pdf)   
 **📂:** LAB TASK 2 - [Using Loops and Functions](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/charles2.pdf)   
 **📂:** LAB TASK 3 - [PYTHON FUNDAMENTALS](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds12.pdf)   
-**📂:** LAB TASK 4 - [PYTHON FUNDAMENTALS](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds1.pdf)   
+**📂:** LAB TASK 4 - [Using Dictionaries](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds1.pdf)   
 **📂:** LAB TASK 5 - [PYTHON FUNDAMENTALS](https://github.com/cngo24-1277-hub/PORTFOLIO_NI_NGO/blob/main/MIDTERM/eds123.pdf)   
 
 
