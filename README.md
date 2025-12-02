@@ -4,7 +4,7 @@
 
 # My Hobbies 
 **𖧋 BASKETBALL**  
-**𖧋 PLAYING ONLINE GAMES*@
+**𖧋 PLAYING ONLINE GAMES**
 
 # 🎓 ACADEMIC
 *● Senior Highschool: Angeles City National Trade School (CSS Strand)*   
